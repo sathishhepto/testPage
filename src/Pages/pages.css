@@ -1,0 +1,24 @@
+
+.nav_head{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 10%;
+    background-color: red;
+    padding: 10px;
+}
+.head_ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blueviolet;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+.head_ul li{
+    list-style: none;
+    padding:0 20px;
+}
